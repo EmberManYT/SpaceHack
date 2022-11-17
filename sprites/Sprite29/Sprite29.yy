@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "SpaceHack",
-    "path": "SpaceHack.yyp",
+    "name": "Tile Sets",
+    "path": "folders/Tile Sets.yy",
   },
 }
