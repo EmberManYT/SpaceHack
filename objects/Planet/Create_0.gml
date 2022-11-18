@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 surfaces=["solid","liquid","gas"]
+sprite
 attr = {
 	liquid_water:random_range(0, 1),
 	atmospheric_oxygen:random_range(15, 80),///15-100%/19-60 works
