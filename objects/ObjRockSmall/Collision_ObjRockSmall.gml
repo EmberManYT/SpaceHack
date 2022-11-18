@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-direction=ObjRocket.image_angle;
-speed=10
+direction=-direction
+image_angle+=1
 
 

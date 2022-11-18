@@ -1,1 +1,4 @@
-motion_add(image_angle, 0.1);
+if(abs(speed)<=8)
+{
+	motion_add(image_angle, 0.1);
+}
