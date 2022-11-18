@@ -13,5 +13,16 @@ attr =
 	surface:surfaces[random_range(0,3)],//solid
 	temp:random_range(-14,57)//4-35
 }
+//popup = false;
+//step event
+//if (position_meeting(mouse_x, mouse_y, id) && mouse_check_button(mb_left)) {
+  //popup = true;
+//} else {
+  //popup = false;
+//}
+//draw event
+//if (popup) {
+  //draw_text(x, y, "hello ember man");
+//}
 
 
