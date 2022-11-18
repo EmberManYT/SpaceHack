@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Planet",
+  "name": "ObjPlanet",
   "spriteId": {
     "name": "Sprite30",
     "path": "sprites/Sprite30/Sprite30.yy",
