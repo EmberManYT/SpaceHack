@@ -69,6 +69,6 @@
   "nineSlice": null,
   "parent": {
     "name": "Planets",
-    "path": "folders/Planets.yy",
+    "path": "folders/Rooms/Planets.yy",
   },
 }
